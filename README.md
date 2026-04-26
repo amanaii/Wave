@@ -47,8 +47,8 @@ Wave uses this layout:
 ### Build From Source
 
 ```sh
-git clone https://github.com/<your-name>/wave.git
-cd wave
+git clone https://github.com/amanaii/Wave.git
+cd Wave
 cargo build --release
 ```
 
