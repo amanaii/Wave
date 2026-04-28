@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="1f30a.gif" alt="Wave Logo" width="400">
+
 # Wave
 
 ### Fast 16-color scheme generation for Linux ricing
